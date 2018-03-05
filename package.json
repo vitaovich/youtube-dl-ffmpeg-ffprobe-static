@@ -1,0 +1,33 @@
+{
+  "name": "youtube-dl-ffmpeg-ffprobe-static",
+  "version": "1.0.0",
+  "description": "Youtube-dl static binaries bundled with ffmpeg and ffprobe for Linux",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "bin"
+  ],
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/ffmpeg-static"
+  },
+  "keywords": [
+    "youtube-dl",
+    "ffprobe",
+    "ffmpeg",
+    "static",
+    "library",
+    "binary",
+    "binaries",
+    "linux"
+  ],
+  "author": "Vitaliy Alekhnovich <vitaliyalekhnovich@gmail.com>",
+  "license": "MIT License",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
