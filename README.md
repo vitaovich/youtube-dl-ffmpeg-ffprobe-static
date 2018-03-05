@@ -9,12 +9,13 @@ Usage
 ```js
 const youtubedl = require('youtube-dl-ffmpeg-ffprobe-static');
 console.log(youtubedl.path);
+console.log(youtubedl.binPath);
 ```
 
 Version Notes
 ----
 
-Currently supports Linux (32 and 64-bit).
+Currently supports Linux (32 and 64-bit) and Windows (32 and 64-bit).
 
 Acknowledgements
 ----
