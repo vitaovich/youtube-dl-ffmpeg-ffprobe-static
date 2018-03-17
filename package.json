@@ -1,6 +1,6 @@
 {
   "name": "youtube-dl-ffmpeg-ffprobe-static",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Youtube-dl static binaries bundled with ffmpeg and ffprobe for Linux and Windows",
   "main": "index.js",
   "files": [
